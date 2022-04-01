@@ -1,45 +1,28 @@
-# template
+# granular-cell-tumor
 
 
+```{r language granular-cell-tumor, echo=FALSE, include=TRUE}
 
-**template for pathology atlas repositories**
-
-
-
-
-> see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-
-
-
-
-> do not forget to activate github pages for the new repository
-
-
-
-
-```zsh
-vips dzsave HE.svs HE
-```
-
-
-
-
-```{r language template, echo=FALSE, include=TRUE}
 source("./R/language.R")
+
 ```
 
 
 
 
 ```{asis, echo = (language == "TR")}
-# TemplateTR
+
+# Özefagusta Granüler Hücreli Tümör
+
 ```
 
 
 
 
 ```{asis, echo = (language == "EN")}
-# TemplateEN
+
+# Granular Cell Tumor in Esophagus
+
 ```
 
 
@@ -47,14 +30,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Özefagusta Granüler Hücreli Tümör**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/granular-cell-tumor/HE.html](https://pathologyatlas.github.io/granular-cell-tumor/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -63,15 +46,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Granular Cell Tumor in Esophagus**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/granular-cell-tumor/HE.html](https://pathologyatlas.github.io/granular-cell-tumor/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://pathologyatlas.github.io/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
-
 
