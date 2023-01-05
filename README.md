@@ -33,11 +33,11 @@ source("./R/language.R")
 **Özefagusta Granüler Hücreli Tümör**
 
 
-[https://pathologyatlas.github.io/granular-cell-tumor/HE.html](https://pathologyatlas.github.io/granular-cell-tumor/HE.html)
+[https://images.patolojiatlasi.com/granular-cell-tumor/HE.html](https://images.patolojiatlasi.com/granular-cell-tumor/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
@@ -49,11 +49,11 @@ Mikroskopik görüntüleri inceleyin:
 **Granular Cell Tumor in Esophagus**
 
 
-[https://pathologyatlas.github.io/granular-cell-tumor/HE.html](https://pathologyatlas.github.io/granular-cell-tumor/HE.html)
+[https://images.patolojiatlasi.com/granular-cell-tumor/HE.html](https://images.patolojiatlasi.com/granular-cell-tumor/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
+<iframe src="https://images.patolojiatlasi.com/granular-cell-tumor/HE.html" style="height:400px;width:100%;"></iframe>
 
 ```
 
