@@ -12,7 +12,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-# Özefagusta Granüler Hücreli Tümör
+# Özofagusta Granüler Hücreli Tümör
 
 ```
 
@@ -30,7 +30,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**Özefagusta Granüler Hücreli Tümör**
+**Özofagusta Granüler Hücreli Tümör**
 
 
 [https://images.patolojiatlasi.com/granular-cell-tumor/HE.html](https://images.patolojiatlasi.com/granular-cell-tumor/HE.html)
